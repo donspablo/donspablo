@@ -321,14 +321,14 @@ Bling. Certifications and Education</br>
 <a href="/https://www.donPabloNow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 
 <br/>
-<img align="center" width="100%" src="./assets/pablo-44.webp" />
+<img align="center" width="100%" src="./assets/pablo-44.gif" />
 
 <br/>
 
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
