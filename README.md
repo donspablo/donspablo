@@ -595,7 +595,9 @@ streak on your GitHub profile README
 [Giphy](https://github.com/Giphy) GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
 <br />
+<p align="center">
 <b>Thank you for making Github, Beautiful Again!</b>
+</p>
 <br />
 <br />
 
