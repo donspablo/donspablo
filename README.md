@@ -89,7 +89,7 @@ Skills. Coding Languages, Tools and Frameworks</br>
 <img title="No. 9" alt="No. 9" height="35" src="./assets/9.png" /><a href="#ho"><img title="Homies" alt="Homies" height="75" src="./assets/homies-index.png" /></a><br/>
 Friends. Acknowledgements and Contributors</br>
 ᴬ ᵖᵉʳˢᵒⁿ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ʰᵒᵐᵉ ᵗᵒʷⁿ ᵒʳ ⁿᵉᶦᵍʰᵇᵒʳʰᵒᵒᵈ ᵃ ᵐᵉᵐᵇᵉʳ<br/> ᵒᶠ ᵒⁿᵉ'ˢ ᵖᵉᵉʳ ᵍʳᵒᵘᵖ ᵒʳ ᵍᵃⁿᵍ ᵃ ʰᵒᵐᵉᵇᵒʸ ᵒʳ ʰᵒᵐᵉᵍᶦʳˡ<br/><br/>
-<img title="No. 10" alt="No. 10" height="35" src="./assets/10.png" /><a href="#dr"><img title="Drip" alt="Drip" height="75" src="./assets/drip-index.png" /></a><br/>
+<img title="No. 10" alt="No. 10" height="35" src="./assets/10.png" /><a href="#drip"><img title="Drip" alt="Drip" height="75" src="./assets/drip-index.png" /></a><br/>
 Bling. Certifications and Education</br>
 ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
@@ -604,9 +604,9 @@ streak on your GitHub profile README
 <br /><br />
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
-<p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
+<p align="center"><img  align="center" id="drip" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
-<p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
+<p align="center"><img  align="center" id="" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
 
 <h1>Drip / Bling - Certification and Education</h1>
 
