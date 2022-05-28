@@ -552,18 +552,6 @@ Bling. Certifications and Education</br>
 <a href='https://github.com/donspablo?tab=repositories&q=&type=&language=zapier&sort='> <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
 <a href='https://github.com/donspablo?tab=repositories&q=&type=&language=youtube&sort='> <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 
-<br/><br/><br/>
-<table  align="center" width="100%">
-    <tr>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
-    </tr>
-</table>
 <br/>
 <br/>
 
