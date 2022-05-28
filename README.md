@@ -1,7 +1,7 @@
 <span align="center" bgcolor="#0d1117">
     
-<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" /><br />
-<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" /><br />
+<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" /><br />
+<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" /><br />
 
 <p align="center">
     <h3><big> I AM </big></h3>
@@ -9,8 +9,8 @@
 
 <h5  align="center">A PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h5>
         
-<img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.gif"/>
-<img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.gif"/>
+<img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
+<img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
@@ -24,7 +24,7 @@
     <img align="center" src="http://haka.wh0a.com/badge/svg/4c9183f2-2ab7-42bb-bb3c-6461fdfe19d9" /><br /><br /><br />
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
-    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
+    <img width="80%" align="center" height="1" src="./assets/bar.webp" />
 </p>
 
 <br />
@@ -39,7 +39,7 @@
 <br />
 
 <p  align="center">
-    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
+    <img width="80%" align="center" height="1" src="./assets/bar.webp" />
 </p>
 
 <br />
@@ -96,7 +96,7 @@ Bling. Certifications and Education</br>
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
 
 
-<img align="right" width="15%" src="./assets/pablo-42.gif" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donPabloNow&theme=dracula" />
+<img align="right" width="15%" src="./assets/pablo-42.webp" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.webp"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donPabloNow&theme=dracula" />
 
 
 <br />
@@ -110,7 +110,7 @@ Bling. Certifications and Education</br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
 
-<img width="100%" height="1" src="./assets/bar.gif" />
+<img width="100%" height="1" src="./assets/bar.webp" />
 
 
 
@@ -120,9 +120,9 @@ Bling. Certifications and Education</br>
 
 
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donPabloNow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donPabloNow&theme=dracula" />
-<img  width="15%" src="./assets/pablo-24.gif" /><br /><br />
+<img  width="15%" src="./assets/pablo-24.webp" /><br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.webp" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png" width="20%"/></p>
 
@@ -135,22 +135,22 @@ Bling. Certifications and Education</br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8" target="_blank">
     <img src="./assets/youtube.png" title="don Pablo Video" alt="don Pablo Video" border="10" />
 </a>
-<img align="left" width="40" src="./assets/pablo-34.gif" />
-<img align="left" width="100" src="./assets/pablo-4.gif" />
+<img align="left" width="40" src="./assets/pablo-34.webp" />
+<img align="left" width="100" src="./assets/pablo-4.webp" />
 
-<img align="right" width="150" src="./assets/pablo-16.gif" />
+<img align="right" width="150" src="./assets/pablo-16.webp" />
 <br />
-<h1>Hello World, my name is (don) <img width="130" src="./assets/pablo-2.gif" /></h1>
+<h1>Hello World, my name is (don) <img width="130" src="./assets/pablo-2.webp" /></h1>
 
 <br />
-<img align="left" width="15%" src="./assets/pablo-26.gif" />
+<img align="left" width="15%" src="./assets/pablo-26.webp" />
 <a align="right" href="https://twitter.com/donPabloNow" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/donPabloNow?logo=twitter&style=for-the-badge" title="donPabloNow" alt="donPabloNow" /></a>
 
 <br />
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.webp" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png" width="20%"/></p>
 
@@ -160,32 +160,32 @@ Bling. Certifications and Education</br>
 
 <br />
 
-<img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
+<img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.webp" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
 <br />
 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
 
-<img align="right" width="120" src="./assets/pablo-14.gif" />
+<img align="right" width="120" src="./assets/pablo-14.webp" />
 <br/><br/>
 
 👯 I’m looking to collaborate on Various Projects, give me a holla!
 
 💬 Talk to me about Anything, very interested in a wide range of topics :)
 
-<img align="left" width="140" src="./assets/pablo-18.gif" />
+<img align="left" width="140" src="./assets/pablo-18.webp" />
 
 🔭 I’m currently working on [MeanOS](https://github.com/donspablo/MeanOs)
 
 👨‍💻 All of my projects are available at [https://github.com/donspablo](https://github.com/donspablo)
 
-<img align="left" width="40" src="./assets/pablo-30.gif" />
+<img align="left" width="40" src="./assets/pablo-30.webp" />
 
 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
 
-<img align="left" width="25" src="./assets/pablo-40.gif" />
+<img align="left" width="25" src="./assets/pablo-40.webp" />
 
-<img align="right" width="130" src="./assets/pablo-21.gif" />
+<img align="right" width="130" src="./assets/pablo-21.webp" />
 
 💬 Ask me about **anything**
 
@@ -199,7 +199,7 @@ Bling. Certifications and Education</br>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
 
-<img align="left" width="25" src="./assets/pablo-29.gif" />
+<img align="left" width="25" src="./assets/pablo-29.webp" />
 
 
 
@@ -217,15 +217,15 @@ Bling. Certifications and Education</br>
 <img align="left" width="6%" src="https://camo.githubusercontent.com/0d42edb3c2dcd537266f82f635fce7be10060de205873c658a161023ac66f4d6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6e38444e43543439796c316b6552713870352f323030772e77656270" />
 <img align="right" width="6%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
 <img align="left" width="5%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
-<img align="right" width="5%" src="./assets/pablo-28.gif" />
+<img align="right" width="5%" src="./assets/pablo-28.webp" />
 <img align="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
-<img align="left" width="7%" src="./assets/pablo-30.gif" /><br/><br/><br/>
-<img align="right" width="15%" src="./assets/Rick.gif" />
+<img align="left" width="7%" src="./assets/pablo-30.webp" /><br/><br/><br/>
+<img align="right" width="15%" src="./assets/Rick.webp" />
 <img align="left" width="15%" src="./assets/Morty.webp" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
 
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <br/>
 
@@ -237,10 +237,10 @@ Bling. Certifications and Education</br>
 
 <br />
 
-<img align="left" width="50" src="./assets/pablo-31.gif" />
+<img align="left" width="50" src="./assets/pablo-31.webp" />
 
-<img  align="left" width="200" src="./assets/pablo-22.gif" />
-<img  align="right" width="150" src="./assets/pablo-37.gif" />
+<img  align="left" width="200" src="./assets/pablo-22.webp" />
+<img  align="right" width="150" src="./assets/pablo-37.webp" />
 
 <!-- BLOG-POST-LIST:START -->
 - [The Writer’s Guide to the Galax — One Thousand Ways to Make a Million Dreams Come True](https://medium.com/techverge/the-writers-guide-to-the-galax-one-thousand-ways-to-make-a-million-dreams-come-true-9be95506bb49?source=rss-c4c44819bad7------2)
@@ -252,7 +252,7 @@ Bling. Certifications and Education</br>
 
 
 <br/>
-<img align="left" width="50" src="./assets/pablo-34.gif" />
+<img align="left" width="50" src="./assets/pablo-34.webp" />
 
 
 
@@ -262,7 +262,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png" width="20%"/></p>
 
@@ -279,7 +279,7 @@ Bling. Certifications and Education</br>
 
 <br />
 
-<a href="https://www.buymeacoffee.com/donPabloNow"><img src="./assets/thank.gif"  width="30%" title="thank you" alt="thank you" /></a>
+<a href="https://www.buymeacoffee.com/donPabloNow"><img src="./assets/thank.webp"  width="30%" title="thank you" alt="thank you" /></a>
 
 
 
@@ -287,7 +287,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png" width="20%"/></p>
 
@@ -321,14 +321,14 @@ Bling. Certifications and Education</br>
 <a href="/https://www.donPabloNow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 
 <br/>
-<img align="center" width="100%" src="./assets/pablo-44.gif" />
+<img align="center" width="100%" src="./assets/pablo-44.webp" />
 
 <br/>
 
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
@@ -355,7 +355,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png" width="20%"/></p>
 
@@ -559,20 +559,20 @@ Bling. Certifications and Education</br>
 <br/><br/><br/>
 <table  align="center" width="100%">
     <tr>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.webp" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.webp" /></td>
     </tr>
 </table>
 <br/>
 <br/>
 
 <br /><br />
-<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="20%"/></p>
 
@@ -616,7 +616,7 @@ streak on your GitHub profile README
 <br />
 
 <br /><br />
-<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
