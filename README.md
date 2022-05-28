@@ -1,8 +1,3 @@
-```
-	people = 7900000000;poor = (50/people);internet = people;species = 8700000;climate = 4350000;life = 4350000;equality = 0;rich = 2;web3 = 2;you = 0;me = 1;
-	rich = ((life == (species - climate)) && (equality == ((rich * 1975000000) - (poor * 1)))) ? ((web3 != (me + you)) ? internet : - people): -(people/2);
-```
-
 <span align="center" bgcolor="#0d1117">
     
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" /><br />
