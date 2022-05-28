@@ -221,7 +221,7 @@ Bling. Certifications and Education</br>
 <img align="left" width="7%" src="./assets/pablo-30.webp" /><br/><br/><br/>
 <img align="right" width="15%" src="./assets/Rick.webp" />
 <img align="left" width="15%" src="./assets/Morty.webp" />
-<a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
+<a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=21dhvyi7f7u6ozs7irfp2hkiy" /></a><br/>
 
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
