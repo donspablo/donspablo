@@ -8,6 +8,7 @@
 <p  align="center">
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
 </p>
+
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
 <img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
@@ -18,8 +19,9 @@
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
+<br/>
 </p>
-    
+
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
@@ -28,6 +30,7 @@
 
 <br />
 <br />
+
 <p align="center">
     <a href="https://profile.codersrank.io/user/donPabloNow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
 
@@ -57,7 +60,7 @@
 <br />
 
 <a href="https://www.github.com/donspablo"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a><a href="https://www.twitter.com/donPabloNow"> <a href="https://instagram.com/donPabloNow/"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /><br/>
-    
+<p  align="center">
 <br/><img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
@@ -93,30 +96,14 @@ Friends. Acknowledgements and Contributors</br>
 Bling. Certifications and Education</br>
 ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
-
-
+</p>
 <img align="right" width="15%" src="./assets/pablo-42.webp" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.webp"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donspablo&theme=dracula" />
-
-
 <br />
-
-
-
-
-
-
-
-
+<p  align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
-
 <img width="100%" height="1" src="./assets/bar.webp" />
-
-
-
-
-
 <br />
-
+</p>
 
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donspablo&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donspablo&theme=dracula" />
 <img  width="15%" src="./assets/pablo-24.webp" /><br /><br />
