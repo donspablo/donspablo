@@ -1,9 +1,6 @@
 <h1>WEB3 EVANGELIST . ENTREPRENEUR . HACKER</h1>
 <p  align="center">
-<a align="center" href="https://www.donpablonow.com"><img width=250px" src="https://avatars.githubusercontent.com/u/6468571" /></a>
-</p>
-<p  align="center">
-<h5  align="center">DON PABLO</h5>
+<h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
 </p>
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
