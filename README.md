@@ -543,7 +543,7 @@ Bling. Certifications and Education</br>
 <br/>
 
 <br /><br />
-<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br />
+<p align="center ><br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
 
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="20%"/></p>
 
@@ -606,4 +606,4 @@ Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.</p>
 Uncle Bob</p>
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
-</p>
+</font>
