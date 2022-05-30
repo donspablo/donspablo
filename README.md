@@ -1,32 +1,27 @@
-<span align="center" bgcolor="#0d1117">
-    
-<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" /><br />
-<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" /><br />
-    
+<h1>WEB3 EVANGELIST . ENTREPRENEUR . HACKER</h1>
 <p  align="center">
-<a align="center" href="https://www.donpablonow.com"><img src="https://avatars.githubusercontent.com/u/6468571" /></a>
+<a align="center" href="https://www.donpablonow.com"><img width=250px" src="https://avatars.githubusercontent.com/u/6468571" /></a>
 </p>
-
 <p  align="center">
-<a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
+<h5  align="center">DON PABLO</h5>
 </p>
-
-<h5  align="center"> I AM DON PABLO A PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h5>
-   
+<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" />
+<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
 <p  align="center">
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
 </p>
- 
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
 <img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
+<p  align="center">
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
 ██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
-
+</p>
+    
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
@@ -627,4 +622,3 @@ Uncle Bob</p>
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
-</span>
