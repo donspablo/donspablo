@@ -25,7 +25,7 @@
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
-    <img width="80%" align="center" height="1" src="./assets/bar.webp" />
+    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
 
 <br />
@@ -41,7 +41,7 @@
 <br />
 
 <p  align="center">
-    <img width="80%" align="center" height="1" src="./assets/bar.webp" />
+    <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
 
 <br />
@@ -101,14 +101,14 @@ Bling. Certifications and Education</br>
 <br />
 <p  align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
-<img width="100%" height="1" src="./assets/bar.webp" />
+<img width="100%" height="1" src="./assets/bar.gif" />
 <br />
 </p>
 
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donspablo&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donspablo&theme=dracula" />
 <img  width="15%" src="./assets/pablo-24.webp" /><br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.webp" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png" width="20%"/></p>
 
@@ -136,7 +136,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.webp" /><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png" width="20%"/></p>
 
@@ -211,7 +211,7 @@ Bling. Certifications and Education</br>
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=21dhvyi7f7u6ozs7irfp2hkiy" /></a><br/>
 
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <br/>
 
@@ -248,7 +248,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png" width="20%"/></p>
 
@@ -273,7 +273,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png" width="20%"/></p>
 
@@ -338,7 +338,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png" width="20%"/></p>
 
@@ -543,7 +543,7 @@ Bling. Certifications and Education</br>
 <br/>
 
 <br /><br />
-<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="20%"/></p>
 
@@ -589,7 +589,7 @@ streak on your GitHub profile README
 <br />
 
 <br /><br />
-<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.webp" /></a><br />
+<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="drip" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
