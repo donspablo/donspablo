@@ -2,13 +2,21 @@
     
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" /><br />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" /><br />
-
-<p align="center">
-    <h3><big> I AM </big></h3>
+    
+<p  align="center">
+<a align="center" href="https://www.donpablonow.com"><img src="https://avatars.githubusercontent.com/u/6468571" /></a>
 </p>
 
-<h5  align="center">A PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h5>
-        
+<p  align="center">
+<a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
+</p>
+
+<h5  align="center"> I AM DON PABLO A PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h5>
+   
+<p  align="center">
+<a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
+</p>
+ 
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
 <img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
@@ -18,7 +26,6 @@
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
-
 
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
