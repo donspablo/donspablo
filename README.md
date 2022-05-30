@@ -107,7 +107,7 @@ Bling. Certifications and Education</br>
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donspablo&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donspablo&theme=dracula" />
 <img  width="15%" src="./assets/pablo-24.webp" /><br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" align="center" src="./assets/bar.gif" /><br />
+<p align="center"><p align="center"><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" align="center" src="./assets/bar.gif" /><br /></p></p>
 
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png" width="20%"/></p>
 
