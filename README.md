@@ -606,4 +606,3 @@ Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.</p>
 Uncle Bob</p>
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
-
