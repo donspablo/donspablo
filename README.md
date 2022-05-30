@@ -1,11 +1,10 @@
 <p align="center">
 <h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . HACKER</h1>
-<p align="center">
 <h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
 </p>
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
-<p  align="center">
+<p align="center">
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
 </p>
 
@@ -136,7 +135,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" align="center" src="./assets/bar.gif" /><br />
+<p align="center"><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><img width="100%" height="1" align="center" src="./assets/bar.gif" /><br /></p>
 
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png" width="20%"/></p>
 
@@ -211,7 +210,7 @@ Bling. Certifications and Education</br>
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=21dhvyi7f7u6ozs7irfp2hkiy" /></a><br/>
 </p>
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br />
+<p align="center"><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
 
 <br/>
 
@@ -273,7 +272,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br />
+<p align="center"><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
 
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png" width="20%"/></p>
 
@@ -338,7 +337,7 @@ Bling. Certifications and Education</br>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br />
+<p align="center"><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
 
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png" width="20%"/></p>
 
@@ -543,7 +542,7 @@ Bling. Certifications and Education</br>
 <br/>
 
 <br /><br />
-<p align="center ><br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
+<p align="center"><br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
 
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="20%"/></p>
 
@@ -589,7 +588,7 @@ streak on your GitHub profile README
 <br />
 
 <br /><br />
-<p align="center"><br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p>
+<p align="center"><br /><p align="center"><a align="left" href="#"><img align="left" width="20" src="./assets/up.webp" /></a><a href="#"><img width="100%" height="1" align="center" src="./assets/bar.gif" /></a><br /></p></p>
 
 <p align="center"><img  align="center" id="drip" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
 
@@ -602,8 +601,8 @@ streak on your GitHub profile README
 <p align="center">🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
 Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.</p>
 
-<p align="center">“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka,
+<p align="center">"Master programmers think of systems as stories to be told rather than programs to be written" - Robert C. Martin, aka,
 Uncle Bob</p>
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
-</font>
+</p>
