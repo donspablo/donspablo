@@ -21,6 +21,8 @@
 <br/>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg"></embed></figure>
+
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
