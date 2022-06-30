@@ -2,15 +2,16 @@
 <h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . HACKER</h1>
 <h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
 </p>
+
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
-
+<br/>
 <p align="center">
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
 </p>
 
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
-
+<br/>
 <img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
 <p  align="center">
