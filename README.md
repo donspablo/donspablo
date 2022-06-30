@@ -4,11 +4,13 @@
 </p>
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.webp" />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
+
 <p align="center">
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a>
 </p>
 
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/>
+
 <img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 
 <p  align="center">
@@ -21,6 +23,7 @@
 <br/>
 <br/>
 </p>
+
 <br/>
 <p  align="center">
 <img  align="center" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" />
