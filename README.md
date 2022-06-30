@@ -18,20 +18,18 @@
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
-<br/>
 </p>
-
-<figure><embed src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg"></embed></figure>
-
+<br/>
+<p  align="center">
+<img  align="center" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" />
+</p>
+<br/>
 <p  align="center">
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
-
-<br />
-<br />
-
+<br/>
 <p align="center">
     <a href="https://profile.codersrank.io/user/donPabloNow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
 
