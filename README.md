@@ -18,6 +18,13 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 </p>
 <br />
+<p align="center">
+    <a href="https://profile.codersrank.io/user/donPabloNow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
+<h2 align="center">WHAT I HAVE BEEN DOING THIS WEEK IN THE WORLD OF CODING</h2>
+<p  align="center"><img width="90%" src="./assets/references.svg" />
+<img  align="center" width="50%" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" /><img  width="50%" align="center" src="https://wakatime.com/share/@donPabloNow/4fb273ab-fb58-4836-ac87-484264f0d111.svg" />
+</p><sup>The two graphs shown above offer a summary of the programming work I have completed during the last two weeks. The first graph depicts the programming languages I used, while the second graph depicts the total amount of hours I spent programming over the previous week. Wakatime was utilized to automate the extraction of these information from my integrated development environment.</sup>
+<br/><br/><br/>
 <details>
   <summary align="center">
       <sup><i> 🌵 TO LEARN MORE ABOUT ME PLEASE [</i><b> CLICK 🏝 HERE </b><i>] TO SEE MY</i> <b>[ FULL PROFILE 🐫 ]</b></sup><br/>
@@ -25,24 +32,14 @@
   </summary>
 <br/>
 <p  align="center">
-<img  align="center" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" />
-</p>
-<br/>
-<p  align="center">
-    <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
 <br/>
 <p align="center">
-    <a href="https://profile.codersrank.io/user/donPabloNow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
-
-<p align="center">
     <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
 </p>
-
-<br />
-
+<br/>
 <p  align="center">
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
 </p>
