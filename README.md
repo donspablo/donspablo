@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . SOFTWARE ENGINEER</h1>
+<h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . DEVELOPER</h1>
 <h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
 </p>
 
