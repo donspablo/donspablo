@@ -17,8 +17,12 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 </p>
+<br />
 <details>
-  <summary>View my Full Profile</summary>
+  <summary align="center">
+      <sup><i> 🌵 TO LEARN MORE ABOUT ME PLEASE [</i><b> CLICK 🏝 HERE </b><i>] TO SEE MY</i> <b>[ FULL PROFILE 🐫 ]</b></sup><br/>
+      <sup><i>“When to use iterative development? You should use iterative development only on projects that you want to succeed.”</i><b> – Martin Fowler</b></sup>
+  </summary>
 <br/>
 <p  align="center">
 <img  align="center" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" />
