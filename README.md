@@ -3,7 +3,7 @@
 <h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
 </p>
 
-<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
+<img title="element" alt="element" align="left" width="30" src="./assets/pablo-34.webp" />
 <br/>
 <p align="center">
 <a align="center" href="https://wakatime.com/@03e84a64-1f94-47a4-ab79-af0393fe1adag"><img src="https://wakatime.com/badge/user/03e84a64-1f94-47a4-ab79-af0393fe1ada.svg"></img><a/>
@@ -16,7 +16,7 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 </p>
-<img title="element" alt="element" width="50px" align="right" src="./assets/pablo-30.webp"/>
+<img title="element" alt="element" width="25px" align="right" src="./assets/pablo-30.webp"/>
 <br />
 <p align="center">
     <a href="https://profile.codersrank.io/user/donPabloNow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
@@ -24,10 +24,10 @@
 <p  align="center"><img width="90%" src="./assets/references.svg" />
 <img  align="center" width="50%" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" /><img  width="50%" align="center" src="https://wakatime.com/share/@donPabloNow/4fb273ab-fb58-4836-ac87-484264f0d111.svg" />
 </p>
-<img title="element" alt="element" width="15px" align="left" src="./assets/pablo-30.webp"/>
+<img title="element" alt="element" width="20px" align="left" src="./assets/pablo-30.webp"/>
 <sup>The two graphs shown above offer a summary of the programming work I have completed during the last two weeks. The first graph depicts the programming languages I used, while the second graph depicts the total amount of hours I spent programming over the previous week. Wakatime was utilized to automate the extraction of these information from my integrated development environment.</sup>
 <br/><br/><br/>
-<img title="element" alt="element" align="right" width="25" src="./assets/pablo-34.webp" />
+<img title="element" alt="element" align="right" width="15" src="./assets/pablo-34.webp" />
 <details>
   <summary align="center">
       <sup><i> 🌵 TO LEARN MORE ABOUT ME PLEASE [</i><b> CLICK 🏝 HERE </b><i>] TO SEE MY</i> <b>[ FULL PROFILE 🐫 ]</b></sup><br/>
