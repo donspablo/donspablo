@@ -7,6 +7,7 @@
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.webp" />
 <br/>
 <p align="center">
+<a align="center" href="https://wakatime.com/@03e84a64-1f94-47a4-ab79-af0393fe1adag"><img src="https://wakatime.com/badge/user/03e84a64-1f94-47a4-ab79-af0393fe1ada.svg"></img><a/>
 <a align="center" href="https://valid.x86.fr/h8axr9"><img src="https://valid.x86.fr/cache/banner/h8axr9-6.png" /></a></p>
 <img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.webp"/><img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.webp"/>
 <p  align="center">
