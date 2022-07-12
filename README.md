@@ -25,7 +25,7 @@
 <img  align="center" width="50%" src="https://wakatime.com/share/@donPabloNow/dd2ebf83-0e28-4fff-b15b-05eb5b8eb7bb.svg" /><img  width="50%" align="center" src="https://wakatime.com/share/@donPabloNow/4fb273ab-fb58-4836-ac87-484264f0d111.svg" />
 </p>
 <img title="element" alt="element" width="10px" align="left" src="./assets/pablo-30.webp"/>
-<sup>The two graphs shown above offer a summary of the programming work I have completed during the last two weeks. The first graph depicts the programming languages I used, while the second graph depicts the total amount of hours I spent programming over the previous week. Wakatime was utilized to automate the extraction of these information from my integrated development environment.</sup>
+<sup>The two graphs shown above offer a summary of the programming work I've completed during the last week. The first graph show the various programming languages I have been working with, while the second shows the total amount of hours I spent programming each day this week. Wakatime was used to automate the data extraction directly from IntelliJ or VSCode (IDE).</sup>
 <br/><br/><br/>
 <img title="element" alt="element" align="right" width="20" src="./assets/pablo-34.webp" />
 <details>
