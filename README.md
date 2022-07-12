@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . DEVELOPER</h1>
-<h5  align="center">Allow me to introduce myself,  in addition to running my own business I am a Web 3.0 aficionado and have serveral years experience as a software engineer, hacker, as well as in administration as a CTO.</h5>
+<h5  align="center">Allow me to introduce myself; my name is don Pablo, and in addition to operating a software development firm, I have substantial administrative and software engineer/hacker experience and have worked as the chief technology officer for a number of companies. I am excited about building blockchain and web 3 applications using open-source software.</h5>
 </p>
 
 <img title="element" alt="element" align="left" width="30" src="./assets/pablo-34.webp" />
