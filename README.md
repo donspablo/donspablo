@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">WEB3 EVANGELIST . ENTREPRENEUR . DEVELOPER</h1>
-<h5  align="center">Don Pablo, if you'll indulge me for a moment, please allow me to introduce myself as a Web 3.0 aficionado. In the past, in addition to running my own business, I've had positions as a software developer, a hacker, and an administrator. My unique professional identity stems from the fact that one of my key responsibilities as a software engineer is the creation of software..</h5>
+<h5  align="center">Allow me to introduce myself,  in addition to running my own business I am a Web 3.0 aficionado and have serveral years experience as a software engineer, hacker, as well as in administration as a CTO.</h5>
 </p>
 
 <img title="element" alt="element" align="left" width="30" src="./assets/pablo-34.webp" />
