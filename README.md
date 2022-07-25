@@ -28,10 +28,13 @@
 <sup>The two graphs shown above offer a summary of the programming work I've completed during the last week. The first graph show the various programming languages I have been working with, while the second shows the total amount of hours I spent programming each day this week. Wakatime was used to automate the data extraction directly from IntelliJ or VSCode (IDE).</sup>
 <br/><br/><br/>
 <img title="element" alt="element" align="right" width="20" src="./assets/pablo-34.webp" />
+
+    
+    
 <details>
   <summary align="center">
       <sup><i> 🌵 TO LEARN MORE ABOUT ME PLEASE [</i><b> CLICK 🏝 HERE </b><i>] TO SEE MY</i> <b>[ FULL PROFILE 🐫 ]</b></sup><br/>
-      <sup><i>“When to use iterative development? You should use iterative development only on projects that you want to succeed.”</i><b> – Martin Fowler</b></sup>
+      <sup><i>“When to use iterative development? You should use iterative development only on projects that you want to succeed.”</i><b> – Martin Fowler</b></sup><br><img height="30px" src="https://user-images.githubusercontent.com/6468571/180675798-a83611ae-f1e3-4131-aa96-26b5007c3a37.png"/>
   </summary>
 <br/>
 <p  align="center">
